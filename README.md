@@ -1,8 +1,8 @@
-# MC-Assets Prototype Boilerplate
+# Best Time to Publish Front-End
 You must first install Compass and Bower.
 
 ```sh
 $ bower install
 $ compass watch
-$ In another terminal window: python -m SimpleHTTPServer 8000
+Run a webserver in the root folder: $ python -m SimpleHTTPServer 8000
 ```
